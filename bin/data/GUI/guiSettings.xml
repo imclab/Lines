@@ -1,0 +1,50 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>arduino in</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>midi out</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>FILENAME_LOAD</Name>
+    <Value>instrumento</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>FILENAME_SAVE</Name>
+    <Value>pat</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>callibrate</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>smooth input</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>send MIDI</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>values</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>tempo</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>waves</Name>
+    <Value>0</Value>
+</Widget>

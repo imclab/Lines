@@ -1,0 +1,26 @@
+<Widget>
+    <Kind>2</Kind>
+    <Name>Key</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Pot</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>RANGE</Name>
+    <HighValue>97.117645264</HighValue>
+    <LowValue>27.890197754</LowValue>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>CHANNEL</Name>
+    <Value>2</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>root</Name>
+    <Value>1</Value>
+</Widget>
